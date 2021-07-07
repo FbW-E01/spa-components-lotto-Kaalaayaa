@@ -1,0 +1,10 @@
+@font-face {
+  font-family:"Type-Fesse";
+  src: local("Type-Fesse"),
+  url("./typefesse-master/Fonts/2-webfonts/Typefesse_Claire-Obscure.woff") format("woff") ;
+}
+
+
+body {
+  margin: 0;
+}
