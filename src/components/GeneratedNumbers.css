@@ -1,0 +1,21 @@
+.randomNumber {
+  display: inline-block;
+  border: 1px solid rgb(235, 143, 193);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+}
+
+.extraNumber {
+  display: inline-block;
+  color: black;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(41, 201, 212);
+  border: 1px solid white;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 50px;
+}

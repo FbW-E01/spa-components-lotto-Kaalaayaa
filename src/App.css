@@ -1,0 +1,25 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.font-face-tf {
+  font-family: "Type-Fesse";
+  color: rgb(235, 143, 193);
+  background-color: black;
+  margin: auto;
+  width: 800px;
+  height: 500px;
+  text-align: center;
+  margin-top: 100px;
+  padding: 100px 0 0px 0;
+  font-size: 30px;
+}
+
+.buttons {
+  margin-top: 50px;
+}
+
+.numbers {
+  margin-bottom: 50px;
+}
